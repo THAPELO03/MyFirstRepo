@@ -2,5 +2,7 @@
 <title>Practise git</title>
 <body><h1>Hello World</h1>
 	<h2>Hello World Thapelo</h2>
+	<h3>Hello World Temong Section Tembisa</h3>
+	<h4>hello World IT</h4>
 </body>
 </html>
